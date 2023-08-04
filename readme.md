@@ -68,7 +68,7 @@ Don't reply until given input. Don't provide extra explanations. Don't give defa
 ```
 After receiving the response from ChatGPT, paste the job description and submit it, you will have the intended result.
 
-> :bulb: Note the instruction prompt in this example is currently for data-relevant roles (data analyst, data scientist, data engineering); feel free to modify it to tailor your job search.
+> :bulb: Note the instruction prompt in this example is currently for data-relevant roles (data analyst, data scientist, data engineer); feel free to modify it to tailor your job search.
 
 ## :notebook_with_decorative_cover: Notebook version
 
@@ -77,8 +77,8 @@ See more in [Notebook demo](https://github.com/yuting1214/JobScanGPT/blob/main/N
 ## :star2: Features
 - **Scan and Extract**: Identify key information in job descriptions like citizenship rules, visa policies, and experience required, all with a quick scan.
 - **Cost-Aware**: See the price for a single use right when you submit the job, tailored to the LLM you pick.
-- **Lighweight Database**: All the input text and output JSON will be automatically saved in the **data** folder, ready for future use or fine-tuning.
-- **Intelligent and robust system**: All the sensitive input will be took care, and the input irrevalant to job desciriotin will be detected in advance to prevent further processing.
+- **Lightweight Database**: All the input text and output JSON will be automatically saved in the **data** folder, ready for future use or fine-tuning.
+- **Intelligent and robust system**: All the sensitive input will be took care, and the input irrevalant to job descriptions will be detected in advance to prevent further processing.
 
 ## :warning: Note
 * The app currently supports English language only.
