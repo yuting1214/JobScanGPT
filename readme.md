@@ -3,6 +3,8 @@
 JobScanGPT is an LLM-based application designed to help users streamline the process of analyzing job descriptions.
 By scanning the provided job description, the app extracts key information, saving time and enhancing efficiency. :hourglass_flowing_sand:
 
+![Demonstration of JobScanGPT](https://github.com/yuting1214/JobScanGPT/blob/main/material/JobScanGPT_Demo.gif)
+
 ## :arrow_down: Installation
 ### Packages
 ```
